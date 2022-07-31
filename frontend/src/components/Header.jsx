@@ -10,13 +10,13 @@ const Header = () => {
       <ul>
         <li>
           <Link to="/login">
-            <FaSignInAlt />
+            <FaSignInAlt /> Login
           </Link>
         </li>
 
         <li>
           <Link to="/register">
-            <FaUser />
+            <FaUser /> Register
           </Link>
         </li>
       </ul>
